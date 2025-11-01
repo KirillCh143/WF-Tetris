@@ -6,7 +6,7 @@
 В репозитории выложены все ассеты, которые используются в часах, а также сам файл .wfs для тех, кто захочит делать какие либо модификации.
 
 <h3>Превью</h3> 
-<img width="1610" height="820" alt="1" src="https://github.com/user-attachments/assets/f2158765-3c6c-468c-aeb7-f48b0a35bc84" />
+<img width="1610" height="820" alt="11" src="https://github.com/user-attachments/assets/35807326-e771-4b12-90c3-973515d9b8af" />
 <h3>Функции:</h3>
 - AM\PM и 24Hr режимы<br> 
 - Тап-зоны<br> 
