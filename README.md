@@ -8,7 +8,7 @@
 <h3>Превью</h3> 
 <img width="1610" height="820" alt="11" src="https://github.com/user-attachments/assets/35807326-e771-4b12-90c3-973515d9b8af" />
 <h3>Функции:</h3>
-● AM\PM и 24Hr режимы<br> 
+● AM\PM и 24HR режимы<br> 
 ● Тап-зоны<br> 
 ● 4.5 минуты анимации<br> 
 ● Always-On режим<br> 
